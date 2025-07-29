@@ -9,6 +9,5 @@ Voxatile is a Minecraft server built entirely in Rust based on b1.7.3, offering 
 ```bash
 git clone https://github.com/voxatile/voxatile.git
 cd voxatile
-cargo build --release
-target/release/voxatile
+cargo run --release
 ```
